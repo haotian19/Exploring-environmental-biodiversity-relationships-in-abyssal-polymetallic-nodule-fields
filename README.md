@@ -286,7 +286,6 @@ All CSV files are human‑readable and can be opened in Excel or any data analys
 ## 📜 License
 
 This code is provided under the MIT License.
-Data are subject to the original license agreements of the sampling campaigns and sequencing facilities – please contact the corresponding author for permissions.
 
 ------
 
