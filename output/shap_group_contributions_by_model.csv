@@ -1,0 +1,73 @@
+Target,Model,Group,MeanAbsSHAP,Contribution
+Monothalamida,LightGBM,Major Element Gradient (PC1),0.0,
+Monothalamida,LightGBM,Major Element Gradient (PC2),0.0,
+Monothalamida,LightGBM,Organic-Depth Gradient (PC1),0.0,
+Monothalamida,LightGBM,Organic-Depth Gradient (PC2),0.0,
+Monothalamida,LightGBM,Sediment Gradient (PC1),0.0,
+Monothalamida,LightGBM,Sediment Gradient (PC2),0.0,
+Monothalamida,LightGBM,Trace Element Gradient (PC1),0.0,
+Monothalamida,LightGBM,Trace Element Gradient (PC2),0.0,
+Monothalamida,RF,Major Element Gradient (PC1),3146.6033531269372,0.21395504308010338
+Monothalamida,RF,Major Element Gradient (PC2),2157.3754772861007,0.1466919441002978
+Monothalamida,RF,Organic-Depth Gradient (PC1),550.823966514961,0.03745358161146904
+Monothalamida,RF,Organic-Depth Gradient (PC2),1239.4014827015894,0.08427379236135489
+Monothalamida,RF,Sediment Gradient (PC1),2428.3799869050044,0.16511904628742108
+Monothalamida,RF,Sediment Gradient (PC2),484.22876153700645,0.032925403652265116
+Monothalamida,RF,Trace Element Gradient (PC1),2045.252733754786,0.13906809586449695
+Monothalamida,RF,Trace Element Gradient (PC2),2654.777824696927,0.1805130930425918
+Monothalamida,XGBoost,Major Element Gradient (PC1),4139.008605957031,0.20146719616763764
+Monothalamida,XGBoost,Major Element Gradient (PC2),1124.3164794921875,0.05472636331375432
+Monothalamida,XGBoost,Organic-Depth Gradient (PC1),1301.4784423828125,0.06334976261757781
+Monothalamida,XGBoost,Organic-Depth Gradient (PC2),698.8294509887695,0.03401568430842218
+Monothalamida,XGBoost,Sediment Gradient (PC1),4273.977270507812,0.20803682696724526
+Monothalamida,XGBoost,Sediment Gradient (PC2),1793.7221557617188,0.08730983861811176
+Monothalamida,XGBoost,Trace Element Gradient (PC1),2081.5175018310547,0.10131834330187467
+Monothalamida,XGBoost,Trace Element Gradient (PC2),5131.480310058594,0.24977598470537643
+ZOTUs,LightGBM,Major Element Gradient (PC1),0.0,
+ZOTUs,LightGBM,Major Element Gradient (PC2),0.0,
+ZOTUs,LightGBM,Organic-Depth Gradient (PC1),0.0,
+ZOTUs,LightGBM,Organic-Depth Gradient (PC2),0.0,
+ZOTUs,LightGBM,Sediment Gradient (PC1),0.0,
+ZOTUs,LightGBM,Sediment Gradient (PC2),0.0,
+ZOTUs,LightGBM,Trace Element Gradient (PC1),0.0,
+ZOTUs,LightGBM,Trace Element Gradient (PC2),0.0,
+ZOTUs,RF,Major Element Gradient (PC1),150.76679284912643,0.21151716293284945
+ZOTUs,RF,Major Element Gradient (PC2),127.28504810156588,0.17857362187943154
+ZOTUs,RF,Organic-Depth Gradient (PC1),88.26409628232109,0.12382946457679851
+ZOTUs,RF,Organic-Depth Gradient (PC2),89.03743541456353,0.12491441502341684
+ZOTUs,RF,Sediment Gradient (PC1),72.62195214261915,0.10188443352525008
+ZOTUs,RF,Sediment Gradient (PC2),18.140673449210066,0.02545032436624133
+ZOTUs,RF,Trace Element Gradient (PC1),69.800653828994,0.09792631381063625
+ZOTUs,RF,Trace Element Gradient (PC2),96.87086247003232,0.13590426388537585
+ZOTUs,XGBoost,Major Element Gradient (PC1),237.98190002441407,0.17058912516267913
+ZOTUs,XGBoost,Major Element Gradient (PC2),310.7071197509766,0.22271969311404516
+ZOTUs,XGBoost,Organic-Depth Gradient (PC1),139.60932807922364,0.10007413647483696
+ZOTUs,XGBoost,Organic-Depth Gradient (PC2),150.46685409545898,0.107856979894234
+ZOTUs,XGBoost,Sediment Gradient (PC1),169.7141082763672,0.12165371087322027
+ZOTUs,XGBoost,Sediment Gradient (PC2),69.60307235717774,0.04989256418587937
+ZOTUs,XGBoost,Trace Element Gradient (PC1),197.32522621154786,0.14144578940038063
+ZOTUs,XGBoost,Trace Element Gradient (PC2),119.65142440795898,0.08576800089472439
+reads,LightGBM,Major Element Gradient (PC1),0.0,
+reads,LightGBM,Major Element Gradient (PC2),0.0,
+reads,LightGBM,Organic-Depth Gradient (PC1),0.0,
+reads,LightGBM,Organic-Depth Gradient (PC2),0.0,
+reads,LightGBM,Sediment Gradient (PC1),0.0,
+reads,LightGBM,Sediment Gradient (PC2),0.0,
+reads,LightGBM,Trace Element Gradient (PC1),0.0,
+reads,LightGBM,Trace Element Gradient (PC2),0.0,
+reads,RF,Major Element Gradient (PC1),11298.05549069196,0.22280242952716786
+reads,RF,Major Element Gradient (PC2),8324.005548829064,0.16415290765784285
+reads,RF,Organic-Depth Gradient (PC1),2924.2135869351378,0.05766672788625149
+reads,RF,Organic-Depth Gradient (PC2),5106.669441844991,0.10070567978468353
+reads,RF,Sediment Gradient (PC1),7882.320999942191,0.15544270167083196
+reads,RF,Sediment Gradient (PC2),1595.0367233137843,0.03145479834402891
+reads,RF,Trace Element Gradient (PC1),7326.55361275215,0.14448273389408284
+reads,RF,Trace Element Gradient (PC2),6251.996894423434,0.12329202123511046
+reads,XGBoost,Major Element Gradient (PC1),17822.109619140625,0.23963697852385196
+reads,XGBoost,Major Element Gradient (PC2),5465.815478515625,0.07349362866861016
+reads,XGBoost,Organic-Depth Gradient (PC1),5766.3677734375,0.07753486987869317
+reads,XGBoost,Organic-Depth Gradient (PC2),3451.30498046875,0.04640641961912327
+reads,XGBoost,Sediment Gradient (PC1),13016.407861328125,0.17501927200429782
+reads,XGBoost,Sediment Gradient (PC2),5844.613452148437,0.07858696519341951
+reads,XGBoost,Trace Element Gradient (PC1),9457.79990234375,0.12717005116199734
+reads,XGBoost,Trace Element Gradient (PC2),13546.864233398437,0.18215181495000682
