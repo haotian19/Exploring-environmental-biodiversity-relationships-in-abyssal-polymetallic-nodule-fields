@@ -1,8 +1,8 @@
-# Exploring environmental‑biodiversity relationships in abyssal polymetallic nodule fields using eDNA metabarcoding and interpretable machine learning
+# Exploring environmental‑biodiversity relationships in polymetallic nodule fields using eDNA metabarcoding and interpretable machine learning
 
 This repository contains the complete code and data for the manuscript:
 
-> **"Exploring environmental‑biodiversity relationships in abyssal polymetallic nodule fields using eDNA metabarcoding and interpretable machine learning"**
+> **"Exploring environmental‑biodiversity relationships in polymetallic nodule fields using eDNA metabarcoding and interpretable machine learning"**
 
 We combine eDNA metabarcoding of benthic foraminifera with high‑dimensional environmental data (sediment grain‑size, major/trace elements, organic matter, bathymetry) and apply interpretable machine learning (linear models, ridge, random forest, XGBoost, LightGBM, GAM) to predict biodiversity metrics and quantify the influence of environmental drivers.
 
